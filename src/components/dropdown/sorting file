@@ -1,0 +1,26 @@
+//  const handleSortRatiin = () => {
+//     const sortReadBook = [...bookRead].sort((a, b) => b.rating - a.rating);
+//     setReadBook(sortReadBook);
+//     const sortWishList = [...wishList].sort((a, b) => b.rating - a.rating);
+//     setWishList(sortWishList);
+//   };
+//   const handleSortPages = () => {
+//     const sortReadBook = [...bookRead].sort(
+//       (a, b) => b.totalPages - a.totalPages
+//     );
+//     setReadBook(sortReadBook);
+//     const sortWishList = [...wishList].sort(
+//       (a, b) => b.totalPages - a.totalPages
+//     );
+//     setWishList(sortWishList);
+//   };
+//   const handleSortPublisherYear = () => {
+//     const sortReadBook = [...bookRead].sort(
+//       (a, b) => b.yearOfPublishing - a.yearOfPublishing
+//     );
+//     setReadBook(sortReadBook);
+//     const sortWishList = [...wishList].sort(
+//       (a, b) => b.yearOfPublishing - a.yearOfPublishing
+//     );
+//     setWishList(sortWishList);
+//   };
